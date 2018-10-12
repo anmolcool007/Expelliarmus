@@ -1,2 +1,2 @@
-# Expelliarmus
-Project for code fun do ++
+# Code Fun Do ++
+Project for code fun do +
