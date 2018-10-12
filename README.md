@@ -3,6 +3,10 @@ Now no more deaths, when nature threats.
  Author: Anmol Gupta, Kumar Pradumn
 ________________________________________
 We are the students of IIT jodhpur, and this is our project to help the victims suffering a natural disaster.
+Team name:Expelliarmus
+Email ids --
+                      ANMOL GUPTA:      anmol.cool.gupta1999@gmail.com
+                      KUMAR PRADUMN:    kumar.94@iitj.ac.in
 APP NAME : IRESCUE
 ________________________________________
 After hearing such deadly cases of deaths due to natural disasters, we have got this golden opportunity to express our views on this topic.
