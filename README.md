@@ -1,2 +1,3 @@
 # Code Fun Do ++
-Project for code fun do +
+Now no more deaths, when nature threats.
+Author: ANmol Gupta, Kumar Pradumn
